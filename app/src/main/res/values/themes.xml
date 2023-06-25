@@ -1,17 +1,8 @@
 <resources>
     <!-- Base application theme. -->
-    <style name="Base.Theme.WorkWithQRCode" parent="Theme.MaterialComponents.Light.NoActionBar">
-        <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/light_primary</item>
-        <item name="colorPrimaryVariant">@color/light_primary_variant</item>
-        <item name="colorOnPrimary">@color/light_on_primary</item>
-        <!-- Secondary brand color. -->
-        <item name="colorSecondary">@color/light_secondary</item>
-        <item name="colorSecondaryVariant">@color/light_secondary_variant</item>
-        <item name="colorOnSecondary">@color/light_on_secondary</item>
-        <!-- Status bar color. -->
-        <item name="android:statusBarColor">?attr/colorPrimary</item>
+    <style name="Base.Theme.WorkWithQRCode" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="android:statusBarColor">@color/primary</item>
     </style>
-
     <style name="Theme.WorkWithQRCode" parent="Base.Theme.WorkWithQRCode" />
 </resources>

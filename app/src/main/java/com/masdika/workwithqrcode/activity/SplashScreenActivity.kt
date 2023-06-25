@@ -15,7 +15,6 @@ import com.masdika.workwithqrcode.R
 class SplashScreenActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO)
         window.statusBarColor = ContextCompat.getColor(this, R.color.white)
         setContentView(R.layout.activity_splash_screen)
 

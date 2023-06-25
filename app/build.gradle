@@ -53,5 +53,7 @@ dependencies {
     implementation 'nl.joery.animatedbottombar:library:1.1.0'
     //Hide soft keyboard
     implementation 'net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.1.0'
+    //sdp size
+    implementation 'com.intuit.sdp:sdp-android:1.1.0'
 
 }

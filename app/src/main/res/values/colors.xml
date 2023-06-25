@@ -1,36 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="primary">#1976D2</color>
+    <color name="background">#FFFFFF</color>
+    <color name="text_color">#000000</color>
+    <color name="layout">#F5F5F5</color>
+    <color name="input">#EEEEEE</color>
+    <color name="button">#2196F3</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="gray">#9BA4B5</color>
-
-    <!--    APPS COLOR PALETTE DARK BLUE -->
-    <color name="dark_blue_1">#090088</color>
-    <color name="dark_blue_2">#02006c</color>
-    <color name="dark_blue_3">#010057</color>
-    <color name="dark_blue_4">#010048</color>
-    <color name="dark_blue_5">#03002e</color>
-
-    <!--    APPS COLOR PALETTE LIGHT BLUE -->
-    <color name="light_blue_1">#d8f9ff</color>
-    <color name="light_blue_2">#b1f2ff</color>
-    <color name="light_blue_3">#8aecff</color>
-    <color name="light_blue_4">#63e5ff</color>
-    <color name="light_blue_5">#3cdfff</color>
-    <color name="light_blue_6">#5490D9</color>
-
-    <color name="light_primary">#2196F3</color>
-    <color name="light_primary_variant">#1976D2</color>
-    <color name="light_on_primary">#FFFFFFFF</color>
-    <color name="light_secondary">#FFC107</color>
-    <color name="light_secondary_variant">#FFA000</color>
-    <color name="light_on_secondary">#000000</color>
-
-    <color name="dark_primary">#0D47A1</color>
-    <color name="dark_primary_variant">#0A3F9D</color>
-    <color name="dark_on_primary">#FFFFFF</color>
-    <color name="dark_secondary">#FFA000</color>
-    <color name="dark_secondary_variant">#FF6F00</color>
-    <color name="dark_on_secondary">#000000</color>
-
 </resources>
