@@ -13,7 +13,7 @@
         android:fontFamily="@font/arial"
         android:text="@string/text_to_qr_generator"
         android:textColor="@color/white"
-        android:textSize="@dimen/_16sdp"
+        android:textSize="@dimen/_14sdp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/guideline1"
         app:layout_constraintEnd_toStartOf="@+id/guideline4"
